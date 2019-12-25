@@ -1,4 +1,4 @@
-# helpscout_darkmode
+# Dark Mode for HelpScout
 Dark theme for HelpScout
 
 ## How to Enable the Dark Theme for HelpScout
